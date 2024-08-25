@@ -1,0 +1,6 @@
+
+git clone [repository-url]
+git checkout [Ali-tech-newbranch]
+git add .
+git commit -m "Your commit message"
+git push origin [Ali-tech-newbranch]
